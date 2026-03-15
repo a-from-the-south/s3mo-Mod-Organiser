@@ -4,7 +4,7 @@
 **This is just a backup of a project that's no longer supported, but it may be useful to others.**
 
 ### Download
-You can find the compiled sources in the [releases tab here on github](https://github.com/OhRudi/g0kurs-Sims-3-Mod-Organizer-S3MO-/releases).
+You can find the compiled sources in the [releases tab here on github](https://github.com/OhRudi/g0kurs-Sims-3-Mod-Organizer-S3MO/releases).
 
 ### Original Sources
 **[Download-Page](https://modthesims.info/d/668610/sims-3-mod-organizer.html)**
