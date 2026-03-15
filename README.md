@@ -1,5 +1,5 @@
 # g0kur's Sims 3 Mod Organizer (S3MO)
-**Organize Mods/CC for Sims 3.**
+**Organize Mods/CC for Sims 3 and find conflicting resources.**
 **This is not my code, it's by g0kur.**
 **This is just a backup of a project that's no longer supported, but it may be useful to others.**
 
