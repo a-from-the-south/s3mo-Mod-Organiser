@@ -14,4 +14,5 @@ You can find the compiled sources in the [releases tab here on github](https://g
 ### Credits
 g0kur
 **(https://modthesims.info/m/10304845)**
+
 **(https://www.nraas.net/community/member/g0kur/?sid=43775aea5d61f8038fdaf507e96b3ee3)**
