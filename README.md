@@ -9,3 +9,9 @@ You can find the compiled sources in the [releases tab here on github](https://g
 ### Original Sources
 **[Download-Page](https://modthesims.info/d/668610/sims-3-mod-organizer.html)**
 **[Documentation](https://desiree-uk.tumblr.com/post/689373276280061952/using-the-sims-3-mod-organizer-by-g0kur)**
+
+
+### Credits
+g0kur
+https://modthesims.info/m/10304845
+https://www.nraas.net/community/member/g0kur/?sid=43775aea5d61f8038fdaf507e96b3ee3
